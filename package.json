@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "load-bmfont": "1.4.0",
-    "postprocessing": "6.6.0",
-    "three": "0.107.0",
+    "postprocessing": "^6.23.2",
+    "three": "^0.134.0",
     "three-bmfont-text": "2.3.0"
   },
   "devDependencies": {
